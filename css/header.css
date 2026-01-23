@@ -94,6 +94,7 @@ nav {
   .img-mobile {
     display: none;
   }
+
   .navegation-menu a:hover {
     color: var(--primary-color);
   }
